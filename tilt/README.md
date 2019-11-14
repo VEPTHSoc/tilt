@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Demo](https://github.com/VEPTHSoc/tilt/blob/master/tilt/ezgif.com-optimize.gif)
 ## Available Scripts
 
 In the project directory, you can run:
